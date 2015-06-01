@@ -1,10 +1,10 @@
 {
-  "name": "ionic-cordova-gulp-seed",
+  "name": "ionicpoland-sampleapp-jtom",
   "version": "2.2.12",
   "description": "Ionic & Cordova & Gulp seed with organized code, tests, bower support and some other stuff. Originated from ionic-angular-cordova-seed.",
   "repository": {
     "type": "git",
-    "url": "https://github.com/jtomaszewski/ionic-cordova-gulp-seed"
+    "url": "https://github.com/jtomaszewski/ionicpoland-sampleapp-jtom"
   },
   "author": {
     "name": "Jacek Tomaszewski",

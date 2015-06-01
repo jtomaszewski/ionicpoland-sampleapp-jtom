@@ -98,8 +98,8 @@ module.exports = new class GulpConfig
       development: {
         ENV: "development"
 
-        BUNDLE_ID: "com.jtomaszewski.ionicstarter.development"
-        BUNDLE_NAME: "IonicStarterDev"
+        BUNDLE_ID: "com.ionicpoland.ionic-jtom-sample.development"
+        BUNDLE_NAME: "IonicPoland JT Dev"
 
         # Automatically connect to weinre on application's startup
         # (this way you can debug your application on your PC even if it's running from mobile ;) )
@@ -110,8 +110,8 @@ module.exports = new class GulpConfig
       production: {
         ENV: "production"
 
-        BUNDLE_ID: "com.jtomaszewski.ionicstarter.production"
-        BUNDLE_NAME: "IonicStarter"
+        BUNDLE_ID: "com.ionicpoland.ionic-jtom-sample.production"
+        BUNDLE_NAME: "IonicPoland JT"
 
         COMPRESS_ASSETS: true
 
